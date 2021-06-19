@@ -1,0 +1,3 @@
+meta:
+  author: '{{ author }}'
+  email: 'chensixiang1234@gamil.com'
