@@ -1,2 +1,2 @@
 # wordmarker-example
-wordMarker 使用示例
+WordMarker 使用示例
